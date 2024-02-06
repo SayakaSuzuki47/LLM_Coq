@@ -1,1 +1,1 @@
-# Mutual_Learning_with_Coq_and_LLM
+# LLM_Coq
